@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Giriş Yap"; ObjectID = "82u-AF-kam"; */
+"82u-AF-kam.normalTitle" = "Giriş Yap";
+
+/* Class = "UILabel"; text = "Kullanıcı Adı"; ObjectID = "CWY-xT-rs8"; */
+"CWY-xT-rs8.text" = "Kullanıcı Adı";
+
+/* Class = "UILabel"; text = "Şifre"; ObjectID = "II8-SD-GQO"; */
+"II8-SD-GQO.text" = "Şifre";
